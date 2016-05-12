@@ -8,10 +8,13 @@ Tested on PHP 5.3.10 on Ubuntu 12.04
 Apache Server version: Apache/2.2.22 (Ubuntu)
 
 Install PHP 5.3 or greater
+
 Install Apache2
 
-commands
+commands:
+
 sudo apt-get update
+
 sudo apt-get install apache2
 
 sudo apt-get install php5 libapache2-mod-php5 php5-mcrypt
@@ -54,8 +57,11 @@ http://www.last.fm/
 Compromises/shortcuts:
 
 An MVC approach using a framework like CodeIgniter would have been better.
+
 User friendly error messages for each type of API error response.
+
 Better user interface with backlinks to previous search.
+
 
 Observations:
 
